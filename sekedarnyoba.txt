@@ -1,3 +1,8 @@
 Aku ingin berpuiisi
 Tapi mulut lagi sakit
+<<<<<<< HEAD
 jadi hal itu tidak mungkin wkwk
+lanjutkan
+=======
+jadi hal itu tidak mungkin wkwk
+>>>>>>> Cabang1
